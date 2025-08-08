@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "935387709437",
+    "firebase_url": "https://famtoagent-default-rtdb.firebaseio.com",
+    "project_id": "famtoagent",
+    "storage_bucket": "famtoagent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935387709437:android:b28c2a5f381d114602a394",
+        "android_client_info": {
+          "package_name": "com.business.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935387709437-0p4q01ed2aa2otiasvimhaegrnebul9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.adminapp",
+            "certificate_hash": "ee60ae9aadccec2435b152359f86a1157183a49d"
+          }
+        },
+        {
+          "client_id": "935387709437-4p4n9us6he7apb4trinrjhlkdvpat150.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.adminapp",
+            "certificate_hash": "f8d6fd903f25622341d57b750414bf1ef1c07347"
+          }
+        },
+        {
+          "client_id": "935387709437-85oko6ev7mkj21c3c954njlbn4i7p6u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.adminapp",
+            "certificate_hash": "f12208ce28c41a35720bee71af123e6fa65aef93"
+          }
+        },
+        {
+          "client_id": "935387709437-mjiiag8q2sp4c0vhj92k5ht4572rcccc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.adminapp",
+            "certificate_hash": "424bd7f1c095b05dad6785665e415b86539740a4"
+          }
+        },
+        {
+          "client_id": "935387709437-re5kq4tprot89e06curmkm3v6g9kaql1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.adminapp",
+            "certificate_hash": "d15ccc2a667061c48a947b759ab398eaa53313fa"
+          }
+        },
+        {
+          "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLthZrXpOrX4U2wLHY9h-GJF7OwvjKLv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935387709437-8jrnqfgqbdd78k4gtjjhqa0jt68ggr8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935387709437:android:fd0362fd5480468002a394",
+        "android_client_info": {
+          "package_name": "com.fam.famtoagentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935387709437-9g9a671lsdoeen7s3ogomhi6t3cmqeho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fam.famtoagentapp",
+            "certificate_hash": "424bd7f1c095b05dad6785665e415b86539740a4"
+          }
+        },
+        {
+          "client_id": "935387709437-nnk2fhm81ndgo68e1fsuqa9c9p67bfed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fam.famtoagentapp",
+            "certificate_hash": "a0bc60f8e26fdc06a9bd2891c34f7c890da1ed45"
+          }
+        },
+        {
+          "client_id": "935387709437-u2j9aecpibicspe5dnjd8imnntalo06q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fam.famtoagentapp",
+            "certificate_hash": "f12208ce28c41a35720bee71af123e6fa65aef93"
+          }
+        },
+        {
+          "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLthZrXpOrX4U2wLHY9h-GJF7OwvjKLv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935387709437-8jrnqfgqbdd78k4gtjjhqa0jt68ggr8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935387709437:android:819c738dad0bd74b02a394",
+        "android_client_info": {
+          "package_name": "com.famto.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935387709437-1sk0p3fi0j9aqku0pbb1ns24m7r9qff8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famto.customerapp",
+            "certificate_hash": "424bd7f1c095b05dad6785665e415b86539740a4"
+          }
+        },
+        {
+          "client_id": "935387709437-le3dih0urjgrsm6r462rgl2o6cldlbav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famto.customerapp",
+            "certificate_hash": "f8bc0c9b462ab40400621711470afc5625196970"
+          }
+        },
+        {
+          "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLthZrXpOrX4U2wLHY9h-GJF7OwvjKLv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935387709437-8jrnqfgqbdd78k4gtjjhqa0jt68ggr8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935387709437:android:ae6bf5f15e7c35fb02a394",
+        "android_client_info": {
+          "package_name": "com.merchant.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935387709437-inmclhar9c5eg9nq3kmmnq137n3217ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merchant.adminapp",
+            "certificate_hash": "a0bc60f8e26fdc06a9bd2891c34f7c890da1ed45"
+          }
+        },
+        {
+          "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLthZrXpOrX4U2wLHY9h-GJF7OwvjKLv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935387709437-46dogre7smrh3o415jq91scvlg2c59sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935387709437-8jrnqfgqbdd78k4gtjjhqa0jt68ggr8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
